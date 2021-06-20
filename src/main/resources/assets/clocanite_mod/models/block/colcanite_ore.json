@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "down": "clocanite_mod:blocks/colcaore",
+    "up": "clocanite_mod:blocks/colcaore",
+    "north": "clocanite_mod:blocks/colcaore",
+    "east": "clocanite_mod:blocks/colcaore",
+    "south": "clocanite_mod:blocks/colcaore",
+    "west": "clocanite_mod:blocks/colcaore",
+    "particle": "clocanite_mod:blocks/colcaore"
+  }
+}

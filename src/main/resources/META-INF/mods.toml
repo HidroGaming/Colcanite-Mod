@@ -1,0 +1,25 @@
+modLoader="javafml"
+loaderVersion="[36,)"
+license="GNU General Public License version 3 (GPLv3)"
+
+[[mods]]
+modId="clocanite_mod"
+version="prealpha-0.0.1"
+displayName="Clocanite Mod"
+credits="Hidro/hidrp on curseforge"
+displayURL="https://mcreator.net"
+authors="Hidro"
+description='''
+A mod that add colcanite
+'''
+
+[[dependencies.clocanite_mod]]
+    modId="minecraft"
+    mandatory=true
+    versionRange="[1.16.5]"
+    ordering="NONE"
+    side="BOTH"
+
+
+
+
